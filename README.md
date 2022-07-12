@@ -9,7 +9,7 @@
 <br>
 
 # 🧐 Know me more :
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="320" />
 👶 I was born in 1999 in Iran<br>📚 I'm currently a student of IT<br>🔭 I’m currently working on small personal accounting app<br>🌱 I’m currently learning Unit Test<br>♻ In my opinion, the baby, music and space are the main motivations for continuing life<br>🤬 I hate 5/14 eyes, freemasonry, instagram, Whatsapp<br>🦉 Some of my favorite movies and series :<br>• The Project Blue Book (Series)<br>• The 100 (Series)<br>• Power (Series)<br>• Hell On Wheels (Series)<br>• Saving Private Ryan (Movie)<br>• Fury (Movie)<br>• Green Mile (Movie)<br>
 
 
