@@ -11,12 +11,12 @@
 
 # 🧐 Know me more :
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="320" />
-👶 I was born in 1999 in Iran<br>📚 I'm currently a student of IT<br>👨‍💻 I’m a junior C# programmer<br>🔭 I’m currently working on small personal accounting app<br>🌱 I’m currently learning Unit Test<br>♻ Stimulants to continue life : the baby, music and space (in my opinion😊)<br>🤬 I hate 5/14 eyes, freemasonry, instagram and whatsapp<br><br>
+👶 I was born in 1999 in Iran<br>📚 I'm currently a student of IT<br>👨‍💻 I’m a junior C# programmer<br>🔭 I’m currently working on small personal accounting app<br>🌱 I’m currently learning Unit Test<br>❤ I love blockchain and am studying it<br>♻ Stimulants to continue life : the baby, music and space (in my opinion😊)<br>🤬 I hate 5/14 eyes, freemasonry, instagram and whatsapp<br><br><br><br>
 
 
 # 🛰 Connect with me :
 <p align="left">
-<a href="https://linkedin.com/in/none" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="none" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/hossein-ezatpanah-108205245" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="none" height="30" width="40" /></a>
 <a href="https://discord.gg/htttps://discord.gg/3fyAeGhV" target="blank"><img align="center" src="https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg" alt="htttps://discord.gg/3fyAeGhV" height="30" width="40" /></a>
 </p><br>
 
