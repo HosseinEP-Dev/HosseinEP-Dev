@@ -16,7 +16,7 @@
 
 # 🛰 Connect with me :
 <p align="left">
-<a href="https://linkedin.com/in/hossein-ezatpanah-108205245" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="none" height="30" width="40" /></a>
+<a href="none" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="none" height="30" width="40" /></a>
 <a href="https://discord.gg/htttps://discord.gg/3fyAeGhV" target="blank"><img align="center" src="https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg" alt="htttps://discord.gg/3fyAeGhV" height="30" width="40" /></a>
 </p><br>
 
